@@ -1,5 +1,5 @@
-# snake-game
-snake game with Vanilla Js
+
+# Snake Game with Vanilla Js
 
 
 ##Click the below link to play the game
